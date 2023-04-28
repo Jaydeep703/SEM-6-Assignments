@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="..\style.css"?>
+<books>
+	<heading>Welcome To Website </heading>
+	<book>
+		<title>Title -: WorldMap</title>
+		<author>Author -: Vasco da Gama</author>
+		<publisher>Publisher -: East India Company</publisher>
+		<edition>Edition -: 1</edition>
+		<price> Price -: $2</price>
+	</book>
+</books>
